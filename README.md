@@ -31,3 +31,6 @@ else
 | <b>$pattern</b> | string | Pola yang digunakan untuk pencarian |
 
 <i><b>return: index(int), false jika gagal</b></i>
+
+
+Azhary Arliansyah <<arliansyah_azhary@yahoo.com>>
